@@ -14,6 +14,8 @@ Electron, formerly known as Atom Shell is an open-source framework developed and
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Electron official website : https://www.electronjs.org <br />
+Electron official GitHub : https://github.com/electron/electron <br />
+Electron official Twitter : https://twitter.com/electronjs <br />
 
 **_Electron related projects_**
 The Chromium Projects : https://www.chromium.org <br />
