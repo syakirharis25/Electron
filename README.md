@@ -17,7 +17,12 @@ Electron official website : https://www.electronjs.org <br />
 
 **_Electron related projects_**
 The Chromium Projects : https://www.chromium.org <br />
-Mojibar : https://github.com/muan/mojibar <br />
+Mojibar by Mu-An : https://github.com/muan/mojibar <br />
+Playback by Mathias Buus : https://github.com/mafintosh/playback <br />
+
+**_Electron developers_**
+Mathias Buus : https://github.com/mafintosh <br />
+Mu-An : https://github.com/muan <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
