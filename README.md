@@ -5,6 +5,7 @@ My works related to Electron.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -37,3 +38,14 @@ $ git status
 ```
 
 GitHub markdown-cheatsheet by tchap : https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+
+<a name="calculation"></a>
+## 4. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              5              0             23
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
