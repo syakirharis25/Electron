@@ -4,8 +4,9 @@ My works related to Electron.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Electron developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -18,17 +19,18 @@ Electron official website : https://www.electronjs.org <br />
 Electron official GitHub : https://github.com/electron/electron <br />
 Electron official Twitter : https://twitter.com/electronjs <br />
 
-**_Electron related projects_**
+**_Electron related projects_** <br />
 The Chromium Projects : https://www.chromium.org <br />
 Mojibar by Mu-An : https://github.com/muan/mojibar <br />
 Playback by Mathias Buus : https://github.com/mafintosh/playback <br />
 
-**_Electron developers_**
+<a name="developers"></a>
+## 3. Electron developers.
 Mathias Buus : https://github.com/mafintosh <br />
 Mu-An : https://github.com/muan <br />
 
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Electron.git
@@ -40,7 +42,7 @@ $ git status
 GitHub markdown-cheatsheet by tchap : https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
